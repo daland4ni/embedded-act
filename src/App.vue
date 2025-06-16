@@ -34,7 +34,7 @@ export default {
       name: '',
       email: '',
       signups: [],
-      API_BASE: 'https://ea-signupbackend.onrender.com/api' // change this to Render URL when deployed
+      API_BASE: 'https://ea-signupbackend.onrender.com' // change this to Render URL when deployed
     }
   },
   methods: {
